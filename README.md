@@ -1,3 +1,2 @@
-# hello-world
-Learning How To Use GitHub
-I am Gowtham from Mysuru, Currently I am a 5th sem Computer Science And Engineering student.
+#Railway Enquiry And E-Ticketing
+"Railway Enquiry And E-Ticketing" is the DBMS project undertaken and completed successfully this December. Where in this project the users can search for the available stations,the trains between those stations,train timetable,train fare and finally the user can choose a particular train and book the train with preferred coach and and limited number of passengers and generate the e-ticket. 
